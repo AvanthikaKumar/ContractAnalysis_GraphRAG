@@ -1,1 +1,1 @@
-# ContractAnalysis_GraphRAG
+# ContractAnalysis_GraphRAG.
