@@ -1,0 +1,6 @@
+openai
+python-dotenv
+azure-search-documents
+azure-core
+gremlinpython
+PyPDF2
